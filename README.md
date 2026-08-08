@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: Building simple web projects and improving my core programming skills.<br><br>👯 I’m looking to collaborate on: Beginner-friendly open-source software and basic web development projects.<br><br>🤝 I’m looking for help with: Mastering Data Structures & Algorithms and backend web development.<br><br>🌱 I’m currently learning: Java, JavaScript, and modern web application development.<br><br>💬 Ask me about: C programming basics, HTML, CSS, and basic JavaScript.<br><br>⚡ Fun fact: Final-year CSE student always eager to learn new technical skills and build real-world software!
 
 
